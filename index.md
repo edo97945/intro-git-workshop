@@ -1,4 +1,4 @@
-## Hello world, by name is []!
+## Hello world, my name is [Ed Novick]!
 
 I build fancy webpages. I am a fan of:
 * dark coding environments
@@ -8,15 +8,11 @@ I build fancy webpages. I am a fan of:
 
 ## My favorite color is:
 <span style="color:green">Green</span>
-<span style="color:blue">Blue</span>
-<span style="color:purple">Purple</span>
-<span style="color:yellow">Yellow</span>
-<span style="color:pink">Pink</span>
 
 ## Here are some of my favorite things to do:
-* pizzzzaaa
-* 
-* 
+* Videogames
+* Anime
+* Weightlifting
 
 ### Any guesses what this code is for?
 ```
